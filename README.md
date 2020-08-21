@@ -11,5 +11,7 @@ This script will allow for you to feed a list of domain names and output if they
 
 `Enter the file name with your domains in [ENTER]: YOU_DOMAINLIST.txt`
 
+
+
 > Please note the list of domain will need to be one domain per line
 
